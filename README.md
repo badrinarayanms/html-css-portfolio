@@ -14,6 +14,8 @@ This project showcases a simple static portfolio website built entirely with HTM
 - **Contact Section:** Includes contact information or a form to reach the portfolio owner.
 
   ## Deployed Page
+  - link: https://badrinarayanms.github.io/html-css-portfolio/
+  #
   ![out1](https://github.com/badrinarayanms/portfolio/assets/137931415/39a9687c-23c1-499f-aee1-1392bfe1c002)
 
 
